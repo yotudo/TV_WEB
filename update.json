@@ -1,0 +1,9 @@
+{
+  "win": {
+    "version": "1.0.47",
+    "size": 65604627,
+    "md5": "c4976d69c3804e32be314cbdf093a09a",
+    "notes": "更新自有 GitHub 检查地址；网页端与运行程序继续集成在单文件安装包中。",
+    "url": "https://github.com/yotudo/TV_WEB/releases/download/v1.0.47/FlyTV-1.0.47-win.zip"
+  }
+}
